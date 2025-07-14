@@ -52,6 +52,11 @@ To run the training within a Docker container:
 docker run tetris-rl
 ```
 
+## Environment
+
+A fully configurable Gymnasium compatible Tetris environment.
+https://github.com/Max-We/Tetris-Gymnasium
+
 ## Performance
 
 Here is a GIF of the trained agent playing:
