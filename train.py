@@ -6,7 +6,7 @@ from tetris_gymnasium.envs.tetris import Tetris
 
 # Hyperparameters
 batch_size = 32
-episodes = 10
+episodes = 500
 learning_rate = 0.001
 gamma = 0.99
 epsilon = 0.6
